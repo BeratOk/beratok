@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berat</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 - Ask me about **.Net Core, C#, Dart**
 
